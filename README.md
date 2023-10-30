@@ -1,0 +1,2 @@
+# lazlo
+OpenAI CLI
